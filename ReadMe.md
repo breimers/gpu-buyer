@@ -1,4 +1,4 @@
-# GPU Buyers
+# GPU Buyer
 Vendor specific scripts for monitoring the stock of computer hardware and automating the process up to checkout.
 Due to both site regulations and safety concerns, this project will *not* be adding features to automatically complete payment or the transaction process. 
 
